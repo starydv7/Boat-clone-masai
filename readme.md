@@ -2,6 +2,7 @@
 <h3>A popular website for purchasing electronic gadgets.</h3>
 <h4>A Collaborative project built by a team of 6 executed in 7 days.</h4>
 <h2>Team Members are:</h2>
+
  1)Login,CelebrityPage - <a href='https://github.com/starydv7'>Pawan Yadav </a>
  
  2)Navbar - <a href='https://github.com/ShwetaMishra0101/'>Shweta Mishra </a>
