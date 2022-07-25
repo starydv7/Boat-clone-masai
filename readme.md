@@ -1,6 +1,13 @@
 # Boat clone Website
 <h3>A popular website for purchasing electronic gadgets.</h3>
 <h4>A Collaborative project built by a team of 6 executed in 7 days.</h4>
+<h2>Team Members are:
+ 1)Login,CelebrityPage - <a href='https://github.com/starydv7'>Pawan Yadav </a>
+ 
+ 2)Navbar - <a href='https://github.com/ShwetaMishra0101/'>Shweta Mishra </a>
+ 
+ 3)ProductsPage,Cart,Payment - <a href='https://github.com/Amanjaiswal0612/'>Aman Jaiswal </a>
+ 
 <div><img src="https://user-images.githubusercontent.com/98823458/171947473-d796950b-8cab-4e34-8293-2223d0f46397.png"/></div>
 <br/>
 <h2>Demo 🎥</h2>
